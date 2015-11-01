@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/sounds">
+        <file alias="vibrate">sounds/vibrate.wav</file>
+    </qresource>
+</RCC>
